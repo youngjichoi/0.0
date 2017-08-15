@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "touchgame", "touchgame.csproj", "{79670E82-86AC-4184-BF89-A1CC5B9A698D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "touchgame.Editor", "touchgame.Editor.csproj", "{2655CB7B-F59B-66E5-08E9-684CA31F377D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79670E82-86AC-4184-BF89-A1CC5B9A698D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79670E82-86AC-4184-BF89-A1CC5B9A698D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79670E82-86AC-4184-BF89-A1CC5B9A698D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79670E82-86AC-4184-BF89-A1CC5B9A698D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2655CB7B-F59B-66E5-08E9-684CA31F377D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2655CB7B-F59B-66E5-08E9-684CA31F377D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2655CB7B-F59B-66E5-08E9-684CA31F377D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2655CB7B-F59B-66E5-08E9-684CA31F377D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
